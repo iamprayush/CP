@@ -1,3 +1,3 @@
 # CP
 
-CP Helpers
+Competitive Programming Helpers and Templates
