@@ -16,12 +16,6 @@ import re
 inf = float('inf')
 mod = int(1e9) + 7
 mod_ = 998244353
- 
-'''
-Check for special cases (n=1)
-One wrong submission = 10 mins penalty!
-do smth instead of nothing and stay organized
-'''
 
 def main():
 	pass
